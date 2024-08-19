@@ -1,0 +1,7 @@
+MyRemoteArray
+5
+Software Development
+Data Structures
+Discrete Math
+Theory of Computation
+Data Science
